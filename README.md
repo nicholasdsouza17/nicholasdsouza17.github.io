@@ -98,15 +98,12 @@ Background:
 *[![email][logoemail]](mailto:nicholasdsouza17@gmail.com)*
 
 
-[logolinkedin]: https://github.com/nicholasdsouza17/nicholasdsouza17/blob/main/Linked%20in%20logo.JPG
+[logolinkedin]: https://github.com/nicholasdsouza17/nicholasdsouza17.github.io/blob/main/Linked%20in%20logo.JPG
 
 
-[logotwitter]: https://github.com/nicholasdsouza17/nicholasdsouza17/blob/main/twitter%20logo.JPG
+[logotwitter]: https://github.com/nicholasdsouza17/nicholasdsouza17.github.io/blob/main/twitter%20logo.JPG
 
 
-[logoemail]: https://github.com/nicholasdsouza17/nicholasdsouza17/blob/main/gmail%20logo.JPG
+[logoemail]: https://github.com/nicholasdsouza17/nicholasdsouza17.github.io/blob/main/gmail%20logo.JPG
 
-<!---
-nicholasdsouza17/nicholasdsouza17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
