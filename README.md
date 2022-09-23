@@ -3,7 +3,7 @@
 
 ![Headshot][logo]
 
-[logo]: https://github.com/nicholasdsouza17/nicholasdsouza17/blob/main/final%20head%20shot%20web.JPG
+[logo]: https://github.com/nicholasdsouza17/nicholasdsouza17.github.io/blob/main/final%20head%20shot%20web.JPG
 
 
 #### About Me
