@@ -25,7 +25,7 @@ Background:
   
 
 📑 CPA Plan Inc. ➡ Summer Intern 
-</details>
+
 
 
 ### Skills that Pay Bills
