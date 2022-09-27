@@ -44,6 +44,7 @@ Background:
 🌌 Passion and Extremely Knowledgeable in WEB 3 and Blockchain technology
  
 
+*[ADVICE](https://nicholasdsouza17.github.io/Nick17advice.github.io/)*
 
   
 
