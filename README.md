@@ -15,7 +15,7 @@ Background:
 
 📚 I graduated from Wilfrid Laurier University in 2022 with a BBA and specialization in Accounting.   I have also completed a Graduate Diploma in Accounting at Laurier.
 
-#### Experience
+### Experience
 
   
 📁 BDO ➡ Consultant in Forensic Disputes & Investigations 
@@ -28,7 +28,7 @@ Background:
 </details>
 
 
-#### Skills that Pay Bills
+### Skills that Pay Bills
 
 
 
@@ -48,7 +48,7 @@ Background:
   
 
 
-📫 How to reach me:
+### 📫 How to reach me:
 
 *[![linkedin][logolinkedin]](https://www.linkedin.com/in/nicholas-d-souza-72269a158)*
 *[![twitter][logotwitter]](https://twitter.com/em203ndsouza/)*
