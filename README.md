@@ -3,7 +3,7 @@
 
 ![Headshot][logo]
 
-[logo]: https://github.com/nicholasdsouza17/nicholasdsouza17.github.io/blob/main/final%20head%20shot%20web.JPG
+[logo]: https://raw.githubusercontent.com/nicholasdsouza17/nicholasdsouza17.github.io/main/final%20head%20shot%20web.JPG
 
 
 #### About Me
@@ -101,9 +101,9 @@ Background:
 [logolinkedin]: https://raw.githubusercontent.com/nicholasdsouza17/nicholasdsouza17.github.io/bb2d2be5767a27b0ff440085c2f1123708c22694/Linked%20in%20logo.JPG
 
 
-[logotwitter]: https://github.com/nicholasdsouza17/nicholasdsouza17.github.io/blob/main/twitter%20logo.JPG
+[logotwitter]: https://raw.githubusercontent.com/nicholasdsouza17/nicholasdsouza17.github.io/main/twitter%20logo.JPG
 
 
-[logoemail]: https://github.com/nicholasdsouza17/nicholasdsouza17.github.io/blob/main/gmail%20logo.JPG
+[logoemail]: https://raw.githubusercontent.com/nicholasdsouza17/nicholasdsouza17.github.io/main/gmail%20logo.JPG
 
 
