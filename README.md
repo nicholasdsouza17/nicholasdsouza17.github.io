@@ -98,7 +98,7 @@ Background:
 *[![email][logoemail]](mailto:nicholasdsouza17@gmail.com)*
 
 
-[logolinkedin]: https://github.com/nicholasdsouza17/nicholasdsouza17.github.io/blob/main/Linked%20in%20logo.JPG
+[logolinkedin]: https://raw.githubusercontent.com/nicholasdsouza17/nicholasdsouza17.github.io/bb2d2be5767a27b0ff440085c2f1123708c22694/Linked%20in%20logo.JPG
 
 
 [logotwitter]: https://github.com/nicholasdsouza17/nicholasdsouza17.github.io/blob/main/twitter%20logo.JPG
