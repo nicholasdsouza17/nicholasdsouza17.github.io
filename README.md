@@ -28,7 +28,7 @@ Background:
 
 
 
-### Skills that Pay Bills
+### Skills
 
 
 
