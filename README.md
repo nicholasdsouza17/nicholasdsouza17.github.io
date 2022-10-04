@@ -7,13 +7,15 @@
 
 
 #### About Me
-👋 Hi, I’m Nicholas D'Souza. I am currently Consultant in Forensic Disputes & Investigations.
+👋 Hi I am Nicholas D'Souza. I am currently a Consultant in Forensic Disputes & Investigations.
 I am extremely interested in all things fintech, web3/blockchain, and digital assets.
 I love creating and working collaboratively with others in things that I am passionate about including tech, accounting, sports, streaming/video games and comedy.
 
 Background:
 
-📚 I graduated from Wilfrid Laurier University in 2022 with a BBA and specialization in Accounting.   I have also completed a Graduate Diploma in Accounting at Laurier.
+📚 2021 BBA graduate with a specialization in Accounting from Wilfrid Laurier University.
+
+📚 Graduate Diploma in Accounting from Wilfrid Laurier University.
 
 ### Experience
 
@@ -41,7 +43,7 @@ Background:
 💻 Proficient in Microsoft Office and Excel
   
 
-🌌 Passion and Extremely Knowledgeable in WEB 3 and Blockchain technology
+🌌 Passionate and Extremely Knowledgeable in WEB 3 and Blockchain technology
  
 
 ### *[Career Advice](https://nicholasdsouza17.github.io/Nick17advice.github.io/)*
