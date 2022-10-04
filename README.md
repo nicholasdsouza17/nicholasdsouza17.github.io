@@ -7,9 +7,10 @@
 
 
 #### About Me
-👋 Hi I am Nicholas D'Souza. I am currently a Consultant in Forensic Disputes & Investigations.
-I am extremely interested in all things fintech, web3/blockchain, and digital assets.
-I love creating and working collaboratively with others in things that I am passionate about including tech, accounting, sports, streaming/video games and comedy.
+👋 Hi I am Nicholas D'Souza a Consultant in Forensic Disputes & Investigations.
+Interested in all things accounting, fintech, web3/blockchain, and digital assets.
+I love creating and working collaboratively with others. 
+I am passionate about technology, accounting, sports, streaming/video games and comedy.
 
 Background:
 
